@@ -3,3 +3,4 @@ This is small project that i've created as an assignment before in college cours
 , it's very simple and could be expanded and used more and needs more testing for sure, hope you like it.
 
 # Screenshot of the program
+![screenshot_of_the_program](https://raw.githubusercontent.com/ahmadim98/ProjectTaskManager/master/ProjectTaskManager_Test.PNG)
